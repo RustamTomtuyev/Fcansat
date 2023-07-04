@@ -1,0 +1,13 @@
+.main_container
+{
+    width:100vw;
+    height:100vh;
+    overflow-x:hidden;
+    background-color:lightgray;
+}
+
+/* .scrollable-table {
+    max-height: 300px;
+    overflow-y: auto;
+  } */
+  
